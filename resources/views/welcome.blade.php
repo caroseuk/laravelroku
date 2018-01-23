@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel / Heroku / Codeship
+                    Laravel / Codeship -> ServerPilot
                 </div>
 
             </div>
